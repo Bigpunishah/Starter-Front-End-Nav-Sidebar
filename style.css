@@ -75,6 +75,12 @@ nav li:first-child{
     width: 100%;
 }
 
+/* Optional */
+/* Pushes X icon location on top menu icon */
+.sidebar li:first-child{
+    margin-left: 65%;
+}
+
 .sidebar a{
     width: 100%;
 }
